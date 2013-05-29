@@ -1,4 +1,4 @@
-THIS IS a TITLE
+This is a Title
 ===============
 
 This is a heading
